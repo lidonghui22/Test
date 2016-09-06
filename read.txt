@@ -1,2 +1,3 @@
 Github is free software!
 and is very nice...
+Git distributed under the GPL.
